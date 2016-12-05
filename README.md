@@ -1,13 +1,13 @@
 # devenv.party
 
-[![dev env party banner image](banner.jpg)](https://devenv.party)
-
 Get in-person help setting up your computer with Node.js, npm, & Git!
 
 [![conduct][conduct]][conduct-url]
 
 [conduct]: https://img.shields.io/badge/code%20of%20conduct-contributor%20covenant-green.svg?style=flat-square
 [conduct-url]: CONDUCT.md
+
+[![dev env party banner image](banner.jpg)](https://devenv.party)
 
 ### [devenv.party](https://devenv.party)
 
