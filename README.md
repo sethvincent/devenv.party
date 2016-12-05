@@ -1,5 +1,7 @@
 # devenv.party
 
+[![dev env party banner image](banner.jpg)](https://devenv.party)
+
 Get in-person help setting up your computer with Node.js, npm, & Git!
 
 [![conduct][conduct]][conduct-url]
